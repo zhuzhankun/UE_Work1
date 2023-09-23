@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{CCBBD876-41E1-4902-77B7-209A74A183BF}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "myWork1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
